@@ -11,4 +11,6 @@
 
 239.[滑动窗口最大值](./Sliding_Window_Maximum.py) (困难)
 
+242.[有效的字母异位词](./Valid_Anagram.py) (简单)
+
 703.[数据流中的第K大元素](./Kth_Largest_Element_in_a_Stream.py) (简单)

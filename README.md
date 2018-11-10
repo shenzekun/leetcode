@@ -15,6 +15,10 @@
 
 232.[用栈实现队列](./Implement_Queue_using_Stacks.py) (简单)
 
+235.[二叉搜索树的最近公共祖先](./Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py) (简单)
+
+236.[二叉树的最近公共祖先](./Lowest_Common_Ancestor_of_a_Binary_Tree.py) (中等)
+
 239.[滑动窗口最大值](./Sliding_Window_Maximum.py) (困难)
 
 242.[有效的字母异位词](./Valid_Anagram.py) (简单)

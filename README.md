@@ -7,6 +7,8 @@
 
 20.[有效的括号](./Valid_Parentheses.py) (简单)
 
+50.[Pow(x, n)](./Pow.py) (中等)
+
 98.[验证二叉搜索树](./Validate_Binary_Search_Tree.py) (中等)
 
 142.[环形链表 II](./Linked_List_Cycle_II.py) (中等)

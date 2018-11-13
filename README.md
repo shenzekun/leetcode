@@ -11,6 +11,12 @@
 
 98.[验证二叉搜索树](./Validate_Binary_Search_Tree.py) (中等)
 
+104.[二叉树的最大深度](./Maximum_Depth_of_Binary_Tree.py) (简单)
+
+111.[二叉树的最小深度](./Minimum_Depth_of_Binary_Tree.py) (简单)
+
+122.[买卖股票的最佳时机 II](./Best_Time_to_Buy_and_Sell_Stock_II.py) (简单)
+
 142.[环形链表 II](./Linked_List_Cycle_II.py) (中等)
 
 169.[求众数](./Majority_Element.py) (简单)

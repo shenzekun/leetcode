@@ -9,17 +9,25 @@
 
 50.[Pow(x, n)](./Pow.py) (中等)
 
+94.[二叉树的中序遍历](./Binary_Tree_Inorder_Traversal.py) (中等)
+
 98.[验证二叉搜索树](./Validate_Binary_Search_Tree.py) (中等)
 
 102.[二叉树的层次遍历](./Binary_Tree_Level_Order_Traversal.py) (中等)
 
 104.[二叉树的最大深度](./Maximum_Depth_of_Binary_Tree.py) (简单)
 
+107.[二叉树的层次遍历 II](./Binary_Tree_Level_Order_Traversal_II.py) (简单)
+
 111.[二叉树的最小深度](./Minimum_Depth_of_Binary_Tree.py) (简单)
 
 122.[买卖股票的最佳时机 II](./Best_Time_to_Buy_and_Sell_Stock_II.py) (简单)
 
 142.[环形链表 II](./Linked_List_Cycle_II.py) (中等)
+
+144.[二叉树的前序遍历](./Binary_Tree_Preorder_Traversal.py) (中等)
+
+145.[二叉树的后序遍历](./Binary_Tree_Postorder_Traversal.py) (困难)
 
 169.[求众数](./Majority_Element.py) (简单)
 
@@ -34,5 +42,7 @@
 239.[滑动窗口最大值](./Sliding_Window_Maximum.py) (困难)
 
 242.[有效的字母异位词](./Valid_Anagram.py) (简单)
+
+637.[二叉树的层平均值](./Average_of_Levels_in_Binary_Tree.py) (简单)
 
 703.[数据流中的第K大元素](./Kth_Largest_Element_in_a_Stream.py) (简单)

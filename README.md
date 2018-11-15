@@ -5,7 +5,11 @@
 
 15.[三数之和](./3Sum.py) (中等)
 
+17.[电话号码的字母组合](./Letter_Combinations_of_a_Phone_Number.py) (中等)
+
 20.[有效的括号](./Valid_Parentheses.py) (简单)
+
+22.[括号生成](./Generate_Parentheses.py) (中等)
 
 50.[Pow(x, n)](./Pow.py) (中等)
 

@@ -13,6 +13,10 @@
 
 50.[Pow(x, n)](./Pow.py) (中等)
 
+51.[N皇后](./N-Queens.py) (困难)
+
+52.[N皇后II](./N-Queens_II.py) (困难)
+
 94.[二叉树的中序遍历](./Binary_Tree_Inorder_Traversal.py) (中等)
 
 98.[验证二叉搜索树](./Validate_Binary_Search_Tree.py) (中等)

@@ -17,6 +17,8 @@
 
 52.[N皇后II](./N-Queens_II.py) (困难)
 
+69.[Sqrt(x)](./Sqrt_x.py) (简单)
+
 94.[二叉树的中序遍历](./Binary_Tree_Inorder_Traversal.py) (中等)
 
 98.[验证二叉搜索树](./Validate_Binary_Search_Tree.py) (中等)
@@ -38,6 +40,8 @@
 145.[二叉树的后序遍历](./Binary_Tree_Postorder_Traversal.py) (困难)
 
 169.[求众数](./Majority_Element.py) (简单)
+
+208.[实现 Trie (前缀树)](./Implement_Trie_Prefix_Tree.py) (中等)
 
 225.[用队列实现栈](./Implement_Stack_using_Queues.py) (简单)
 

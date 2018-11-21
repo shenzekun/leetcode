@@ -1,6 +1,10 @@
 # leetcode
 > leetcode practice
 
+完成题数：31
+
+---
+
 1.[两数之和](./Two_Sum.py) (简单)
 
 15.[三数之和](./3Sum.py) (中等)

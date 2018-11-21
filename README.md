@@ -19,6 +19,8 @@
 
 69.[Sqrt(x)](./Sqrt_x.py) (简单)
 
+79.[单词搜索](./Word_Search.py) (中等)
+
 94.[二叉树的中序遍历](./Binary_Tree_Inorder_Traversal.py) (中等)
 
 98.[验证二叉搜索树](./Validate_Binary_Search_Tree.py) (中等)
@@ -42,6 +44,8 @@
 169.[求众数](./Majority_Element.py) (简单)
 
 208.[实现 Trie (前缀树)](./Implement_Trie_Prefix_Tree.py) (中等)
+
+212.[单词搜索 II](./Word_Search_II.py) (困难)
 
 225.[用队列实现栈](./Implement_Stack_using_Queues.py) (简单)
 

@@ -1,7 +1,7 @@
 # leetcode
 > leetcode practice
 
-完成题数：31
+完成题数：34
 
 ---
 
@@ -47,11 +47,15 @@
 
 169.[求众数](./Majority_Element.py) (简单)
 
+191.[位1的个数](./Number_of_1_Bits.py) (简单)
+
 208.[实现 Trie (前缀树)](./Implement_Trie_Prefix_Tree.py) (中等)
 
 212.[单词搜索 II](./Word_Search_II.py) (困难)
 
 225.[用队列实现栈](./Implement_Stack_using_Queues.py) (简单)
+
+231.[2的幂](./Power_of_Two.py) (简单)
 
 232.[用栈实现队列](./Implement_Queue_using_Stacks.py) (简单)
 
@@ -62,6 +66,8 @@
 239.[滑动窗口最大值](./Sliding_Window_Maximum.py) (困难)
 
 242.[有效的字母异位词](./Valid_Anagram.py) (简单)
+
+338.[比特位计数](./Counting_Bits.py) (中等)
 
 637.[二叉树的层平均值](./Average_of_Levels_in_Binary_Tree.py) (简单)
 

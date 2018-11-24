@@ -1,7 +1,7 @@
 # leetcode
 > leetcode practice
 
-完成题数：34
+完成题数：36
 
 ---
 
@@ -22,6 +22,8 @@
 52.[N皇后II](./N-Queens_II.py) (困难)
 
 69.[Sqrt(x)](./Sqrt_x.py) (简单)
+
+70.[爬楼梯](./Climbing_Stairs.py) (简单)
 
 79.[单词搜索](./Word_Search.py) (中等)
 
@@ -72,3 +74,5 @@
 637.[二叉树的层平均值](./Average_of_Levels_in_Binary_Tree.py) (简单)
 
 703.[数据流中的第K大元素](./Kth_Largest_Element_in_a_Stream.py) (简单)
+
+746.[使用最小花费爬楼梯](./Min_Cost_Climbing_Stairs.py) (简单)

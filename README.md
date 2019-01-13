@@ -1,7 +1,7 @@
 # leetcode
 > leetcode practice
 
-完成题数：36
+完成题数：37
 
 ---
 
@@ -38,6 +38,8 @@
 107.[二叉树的层次遍历 II](./Binary_Tree_Level_Order_Traversal_II.py) (简单)
 
 111.[二叉树的最小深度](./Minimum_Depth_of_Binary_Tree.py) (简单)
+
+120.[三角形最小路径和](./Triangle.py)(中等)
 
 122.[买卖股票的最佳时机 II](./Best_Time_to_Buy_and_Sell_Stock_II.py) (简单)
 
